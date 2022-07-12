@@ -51,4 +51,4 @@ def API1(name,mode):
         }
         
         return OSU
-print('import API')
+print("Import\t"+__name__)

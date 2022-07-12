@@ -17,3 +17,4 @@ def fnmode(x):
     else:
         '0'
     return x
+print("Import\t"+__name__)
